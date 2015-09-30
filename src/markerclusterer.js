@@ -5,7 +5,7 @@
 
 /**
  * @name MarkerClusterer for Google Maps v3
- * @version version 1.0.1
+ * @version version 1.0.2
  * @author Axente Adrian (Initial author Luke Mahe)
  * @copyright Copyright 2015 Axente Adrian [adrianaxente at yahoo.com]
  * @fileoverview

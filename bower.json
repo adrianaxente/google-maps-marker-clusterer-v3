@@ -1,27 +1,27 @@
 {
   "name": "ax-gmul3-markerclusterer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/adrianaxente/google-maps-marker-clusterer-v3",
   "authors": [
     "Axente Adrian <adrianaxente@yahoo.com>"
   ],
   "description": "Google Maps Marker Clusterer Based On http://google-maps-utility-library-v3.googlecode.com/svn/tags/markerclusterer/1.0.1/",
   "main": [
-        "../src/markerclusterer.js",
-        "../images/conv30.png",
-        "../images/conv40.png",
-        "../images/conv50.png",
-        "../images/heart30.png",
-        "../images/heart40.png",
-        "../images/heart50.png",
-        "../images/m1.png",
-        "../images/m2.png",
-        "../images/m3.png",
-        "../images/m4.png",
-        "../images/m5.png",
-        "../images/people35.png",
-        "../images/people45.png",
-        "../images/people55.png"
+        "src/markerclusterer.js",
+        "images/conv30.png",
+        "images/conv40.png",
+        "images/conv50.png",
+        "images/heart30.png",
+        "images/heart40.png",
+        "images/heart50.png",
+        "images/m1.png",
+        "images/m2.png",
+        "images/m3.png",
+        "images/m4.png",
+        "images/m5.png",
+        "images/people35.png",
+        "images/people45.png",
+        "images/people55.png"
     ],
   "keywords": [
     "Google",
@@ -42,7 +42,8 @@
     "tests",
     "docs",
     "examples",
-    "bower"
+    "bower",
+    "src/markerclusterer_packed.js"
   ],
   "repository": {
     "type": "git",
